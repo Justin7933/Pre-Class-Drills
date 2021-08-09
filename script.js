@@ -1,2 +1,2 @@
-let d= new Date();
-console.log(d.getDay());
+let day= new Date();
+console.log(day.getDay());
